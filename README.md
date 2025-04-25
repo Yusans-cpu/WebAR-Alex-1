@@ -13,11 +13,9 @@
 
 ![Screenshot_2](https://github.com/user-attachments/assets/dddf286b-c163-4ec7-ad7b-5afe6d813892)
 
-2.3.1.2 - shh ключ
+2.3.1.2 
 
 2.3.1.4
-
-
 
 2.3.2.2
 
